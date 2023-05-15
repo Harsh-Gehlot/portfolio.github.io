@@ -22,7 +22,7 @@ function Home2() {
               I'm passionate about programming and I love to make innovative & dynamic
               programs and games 😁.
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in languages like
               <i>
                 <b className="purple"> C++, Python, Java. </b>
               </i>

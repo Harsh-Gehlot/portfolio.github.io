@@ -1,7 +1,7 @@
 {
   "homepage": "https://harsh-gehlot.github.io/portfolio.github.io",
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^4.0.0"
   },
   "name": "portfolio",
   "version": "0.1.0",
